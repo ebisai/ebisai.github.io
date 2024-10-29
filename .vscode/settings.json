@@ -1,0 +1,8 @@
+{
+  "files.autoSave": "afterDelay",
+  "typescript.autoClosingTags": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
+}
